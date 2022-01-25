@@ -40,7 +40,6 @@ def without_end(string):
     Given a string, return a version without the first and last char, so "Hello" yields "ell".
     The string length will be at least 2.
     """
-    pass
 
 
 def non_start(a, b):
